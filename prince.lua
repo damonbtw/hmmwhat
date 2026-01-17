@@ -1,4 +1,4 @@
-dx9.ShowConsole(true) -- Opens console automatically
+dx9.ShowConsole(false) -- Opens console automatically
 
 --// Damon is king 
 local Lib = loadstring(dx9.Get("https://raw.githubusercontent.com/soupg/DXLibUI/main/main.lua"))()
